@@ -36,10 +36,13 @@
       git fetch origin
       git merge master origin/master	-> resolve conflicts hereBAsi
 
-### Update github fork
+### Sync github fork
     
     git clone git@github.com:vargaandrea/FORKED_REPO.git
     cd into/cloned/fork-repo
     git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
     git fetch upstream
     git pull upstream master
+
+    Sync from browser:
+    https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
