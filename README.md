@@ -15,7 +15,7 @@
     git commit -m "message"
     git add <file>
     git add                      -> adds all changes
-    git remove <file>            -> opposite of git add
+    git reset <file>            -> opposite of git add
     git checkout <branch>
     git branch
     git merge <branch>           -> merges <branch> into current
@@ -23,6 +23,7 @@
     git merge --abort
     git push
     git stage
+    git revert
 
 
     git remote -> shows the remotes
