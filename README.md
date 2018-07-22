@@ -17,7 +17,9 @@
     git add                      -> adds all changes
     git reset <file>            -> opposite of git add
     git checkout <branch>
-    git branch
+    git branch                  -> shows list of branches, current has *
+    git branch <name>           -> create branch
+    git branch -d <name>        -> delete branch
     git merge <branch>           -> merges <branch> into current
     git merge <branch_source> <branch_dest>
     git merge --abort
