@@ -30,7 +30,9 @@ See: https://help.github.com/articles/setting-the-default-branch/
     git push --delete origin new_master
     
     ```
-1. Now sync the master (which is now way behind the upstream repo). Check if the remotes are okay, and pull:
+1. Now sync the master (which is now way behind the upstream repo), 
+   via github.com: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser, 
+   or command line (check if the remotes are okay and then pull):
     ```
     git remote -v
     git pull upstram master
