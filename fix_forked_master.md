@@ -39,4 +39,4 @@ See: https://help.github.com/articles/setting-the-default-branch/
     You can create a branch from it, do your changes and make a PR.
     
 ### Moral of the story
-Always make a branch for your changes :D. 1
+Always make a branch for your changes :D.
